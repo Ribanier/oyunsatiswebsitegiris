@@ -1,0 +1,5 @@
+projede ana ekrandaki calısan kısımlar  
+incele butonları
+üst kısımdaki oyunlar link labelı
+
+Not: Veri tabanı olmadıgından projeyi baştan yapmak zorunda kalmamak için fazla ilerlemedim 

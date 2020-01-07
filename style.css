@@ -1,0 +1,59 @@
+.link a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.link a:hover {
+    color: #FF0000;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    color: white;
+}
+
+.submitstl1 input[type=submit] {
+    background-color: #191919;
+    border: 2px solid white;
+    color: white;
+    width: 63px;
+    height: 25px;
+}
+
+.submitstl1 input[type=submit]:hover {
+    background-color: white;
+    color: #191919;
+    border: 2px solid #191919;
+}
+
+.submitstl2 input[type=submit] {
+    background-color: white;
+    border: none;
+    color: #191919;
+    width: 63px;
+    height: 25px;
+}
+
+.submitstl2 input[type=submit]:hover {
+    background-color: #191919;
+    border: 2px solid white;
+    color: white;
+}
+
+
+/*input[type=button],
+input[type=submit],
+input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}*/
